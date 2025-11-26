@@ -1,9 +1,9 @@
-# LN-Python
+## LN-Python
 # Gruppenmitglieder
 Alessandro Zandt (zandtale@students.zhaw.ch)
 David Hascher (haschdav@students.zhaw.ch)
 Tauland Strellci (streltau@students.zhaw.ch)
+# Kurzer Projektbeschrieb
+test
 # Fragestellung
-test
-# kurzer Beschreibung
-test
+test test
