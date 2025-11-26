@@ -1,6 +1,6 @@
 # Entwicklung der Menschenrechte weltweit: Veränderungen im Human Rights Index
 ## Abgabetermin
-Datum: 15. Dec. 2025
+Datum: <span style="color:blue; font-weight:bold">15. Dec. 2025</span>
 ## Gruppenmitglieder
 ### Alessandro Zandt 
 E-Mail: zandtale@students.zhaw.ch
