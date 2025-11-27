@@ -1,17 +1,16 @@
 # LN-2
 # Entwicklung der Menschenrechte weltweit: Veränderungen im Human Rights Index (1950-2024)
 ## Abgabetermin
-Datum:
 **15. Dezember 2025**
 ## Gruppenmitglieder
-### Alessandro Zandt 
+- Alessandro Zandt 
 E-Mail: zandtale@students.zhaw.ch
-### David Hascher
+- David Hascher
 E-Mail: haschdav@students.zhaw.ch
-### Tauland Strellci
+- Tauland Strellci
 E-Mail: streltau@students.zhaw.ch
 ## Kurzer Projektbeschrieb
-**In diesem Projekt analysieren wir die zeitliche Entwicklung des Human Rights Index für verschiedene Länder.**
+**In diesem Projekt analysieren wir die zeitliche Entwicklung des Human Rights Index für verschiedene Länder. (Zeitspanne: 1950-2024)**
 Der Datensatz Human Rights Index von V-Dem misst, wie stark grundlegende Menschenrechte in einzelnen Ländern geschützt sind. Der Index basiert auf Expertenschätzungen und umfasst zentrale Bereiche wie:
 
 - Schutz vor staatlicher Gewalt (Tortur, politische Morde, Zwangsarbeit)
