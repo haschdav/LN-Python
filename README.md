@@ -1,5 +1,5 @@
 # LN-2
-# Entwicklung der Menschenrechte weltweit: Veränderungen im Human Rights Index
+# Entwicklung der Menschenrechte weltweit: Veränderungen im Human Rights Index (1950-2024)
 ## Abgabetermin
 Datum:
 **15. Dezember 2025**
@@ -31,4 +31,4 @@ Der Index reicht von 0 bis 1, wobei 1 ein sehr hohes Schutzniveau der Menschenre
 ### Datensatz
 Quelle: https://ourworldindata.org/vdem-human-rights-data
 ### Fragestellung
-Wie haben sich die Menschenrechte in verschiedenen Ländern in den letzten Jahren entwickelt, und welche drei Staaten verzeichnen die stärksten Verbesserungen bzw. Verschlechterungen im Human Rights Index?
+Wie haben sich die Menschenrechte in verschiedenen Ländern in den letzten Jahren entwickelt, und welche drei Staaten verzeichnen die stärksten Verbesserungen bzw. Verschlechterungen im Human Rights Index zwischen 1950 und 2024?
