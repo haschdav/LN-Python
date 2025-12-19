@@ -1,7 +1,7 @@
 # LN-2
 # Entwicklung der Menschenrechte weltweit: Veränderungen im Human Rights Index (1950-2024)
 ## Abgabetermin
-**15. Dezember 2025**
+**21. Dezember 2025**
 ## Gruppenmitglieder
 - Alessandro Zandt 
 E-Mail: zandtale@students.zhaw.ch
